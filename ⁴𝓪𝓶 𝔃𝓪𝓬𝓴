@@ -1,0 +1,11 @@
+Add support for Riftmas (Multiplayer)
+Disable old build installing capabilities
+UI refresh, new fonts
+Clean up low-quality images
+Rename 1 24 9 to Axi in description
+Change multiplayer page description
+Add support for installing 7.20
+Add support for automatically adding Fortnite install into Rift configuration, can be implemented with any version in the future.
+Add installer enums to allow for checking of client state
+Add static fields for client data
+Add 7zip library for decompression of LZMA-Algorithm zip files
